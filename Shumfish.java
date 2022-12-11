@@ -1,3 +1,4 @@
+//merr nga tastiera dy numra   te plote dhe afishon nese keto numra   jane shumefish te njeri-tjetrit
 import java.util.Scanner;
 public class Shumfish {
     static boolean kontroll (int a, int b) {
