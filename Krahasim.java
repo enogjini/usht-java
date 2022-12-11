@@ -1,3 +1,4 @@
+// lexon 5 nr te plote, dhe afishon se cili e  shte nr me i madhe dhe me i vogel ne grup, duke perdore operatoret logjike
 import java.util.Scanner;
 public class Krahasim {
  public static void main (String[] args)  {
