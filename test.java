@@ -1,3 +1,4 @@
+//nje aplikacion qe lexon 2 nr te plote, dhe vendos nese nr i dyte eshte shumefish i nr te pare dhe kontrollon nese nr i trete eshte tek apo cift
 import java.util.Scanner;
 public class test {
     public static void main (String[] args) {
