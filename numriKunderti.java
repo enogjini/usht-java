@@ -1,3 +1,4 @@
+// llogarit numrin e kundert te nje numri te plote. Psh numrin 1234 e kthen ne 4321.
 public class numriKunderti {
     public static void main (String[] args) {
         int nr = 1234;
