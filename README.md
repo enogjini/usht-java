@@ -1,2 +1,0 @@
-  ushtrime ne java
-  
