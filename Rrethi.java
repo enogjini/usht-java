@@ -1,3 +1,4 @@
+// llogarit siperfaqen dhe perimetrin e rrethit, duke mar  re te dhenat nga perdoruesi.
 import java.util.Scanner;
 public class Rrethi {
     public static void main (String[] args) {
