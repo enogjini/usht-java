@@ -1,4 +1,4 @@
-//matrica me n rreshta dhe m shtylla, dhe matricat max[n] per maksimumin e rreshtave dhe min[m] per minimumin e shtyllave
+//mat  rica me n rreshta dhe m shtylla, dhe matricat max[n] per maksimumin e rreshtave dhe min[m] per minimumin e shtyllave
 import java.util.Scanner;
 public class MatriceVektorMax {
     public static void main (String[] args) {
