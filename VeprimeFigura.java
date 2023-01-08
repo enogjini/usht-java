@@ -1,3 +1,4 @@
+//Te ndertohet interface VeprimeFigura, me tre funksione ne te llogSiperfaqe(), llogPerimetri(), llojFigures(). Te ndertohet klasa Drejtekendesh qe implementon VeprimeFigura. Te ndertohet klasa Katror qe implementon VeprimeFigura
 interface VeprimeFigura {
 	
 	
