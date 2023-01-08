@@ -1,3 +1,4 @@
+//Person te jete klase abstrakte, me funksion abstract ktheKapitale(kthen string), Punonjes eshte zgjerim i Person, rregulloni kodet…. Ushtrim 1.3 Person te jete klase abstrakte, me funksion abstract ktheKapitale(kthen string), Punonjes eshte zgjerim i Person,
 public abstract class Person {
     private String emri;
     private String adresa;
